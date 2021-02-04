@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><i>Gabriel Moraes (River)</i></h1>
+  <h1 align="center"><i>Gabriel Moraes de Oliveira (River)</i></h1>
 </p>
 
 <!-- Centered image should be in another paragraph -->
