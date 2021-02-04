@@ -7,12 +7,12 @@
 About me
 ---
 
-I'm an experienced back-end developer with a focus in Game Development.
-Skilled in C++, Lua and Java (for Android).
-Professional with a Bachelor's degree in Computer Science from Universidade Federal da Paraíba.
-I live in Recife - PE (Brazil).
+I'm an experienced back-end developer with a focus in **Game Development**.
+Skilled in `C++`, `Lua` and `Java` (for `Android`).
+Professional with a **Bachelor's degree** in `Computer Science` from `Universidade Federal da Paraíba`.
+I live in *Recife - PE (Brazil)*.
 
-My game project is Kingdom Age Online: https://kingdomageonline.com
+My game project is **Kingdom Age Online**: https://kingdomageonline.com
 
 ---
 
