@@ -1,6 +1,6 @@
 # Gabriel Moraes (River)
 
-## About me
+About me
 ---
 
 I'm an experienced back-end developer with a focus in Game Development.
@@ -37,48 +37,48 @@ Framework
 
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Version Control
+Version Control
 ---
 
 ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-## Database
+Database
 ---
 
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-## Social
+Social
 ---
 
 ![Wordpress Badge](https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white)
 
-## Design
+Design
 ---
 
 ![Adobe XD Badge](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Photoshop Badge](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva Badge](https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## Operating System
+Operating System
 ---
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Brainstorm
+Brainstorm
 ---
 
 ![Trello Badge](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
-## Stats
+Stats
 ---
 
 ![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/monokai/0-profile-details.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
 
-## Contact (*click on them*)
+Contact (*click on them*)
 ---
 
 [![](https://img.shields.io/badge/Telegram%20(@biel94moraes)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/biel94moraes)
