@@ -10,6 +10,14 @@ I live in Recife - PE (Brazil).
 
 My game project is Kingdom Age Online: https://kingdomageonline.com
 
+---
+
+Stats
+---
+
+![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
+
 Programming Languages
 ---
 
@@ -48,6 +56,8 @@ Database
 
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 Social
 ---
 
@@ -72,11 +82,7 @@ Brainstorm
 
 ![Trello Badge](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
-Stats
 ---
-
-![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
 
 Contact (*click on them*)
 ---
