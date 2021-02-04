@@ -68,6 +68,10 @@ My game project is Kingdom Age Online: https://kingdomageonline.com
 ![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/monokai/0-profile-details.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
 
+## Contact (*click on them*)
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/biel94moraes)
+
 
 
 <!--
