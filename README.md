@@ -2,9 +2,6 @@
   <br>
   <h1 align="center"><i>Gabriel Moraes (River)</i></h1>
   <br>
-</p>
-
-<p align="center">
   <br>
   <img src="./assets/img/biel94moraes.jpg"/>
   <br>
