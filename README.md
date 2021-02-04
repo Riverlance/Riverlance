@@ -89,7 +89,7 @@ Contact (*click on them*)
 
 [![](https://img.shields.io/badge/Telegram%20(@biel94moraes)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/biel94moraes)
 [![](https://img.shields.io/badge/Email%20(biel94moraes@msn.com)-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:biel94moraes@msn.com)
-[![Linkedin Badge](https://img.shields.io/badge/-biel94moraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biel94moraes)](https://www.linkedin.com/in/biel94moraes)
+[![Linkedin Badge](https://img.shields.io/badge/-biel94moraes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biel94moraes)](https://www.linkedin.com/in/biel94moraes)
 
 
 
