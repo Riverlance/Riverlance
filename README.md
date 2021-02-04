@@ -2,6 +2,10 @@
   <br>
   <h1 align="center"><i>Gabriel Moraes (River)</i></h1>
   <br>
+</p>
+
+<!-- Centered image should be in another paragraph -->
+<p align="center">
   <br>
   <img src="./assets/img/biel94moraes.jpg"/>
   <br>
