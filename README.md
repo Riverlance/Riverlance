@@ -10,7 +10,7 @@ I live in Recife - PE (Brazil).
 
 My game project is Kingdom Age Online: https://kingdomageonline.com
 
-## Programming Languages
+Programming Languages
 ---
 
 ### Main
@@ -32,7 +32,7 @@ My game project is Kingdom Age Online: https://kingdomageonline.com
 ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown Badge](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
-## Framework
+Framework
 ---
 
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
