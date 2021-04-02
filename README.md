@@ -50,7 +50,7 @@ Programming Languages
 Framework
 ---
 
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23000000.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23007BFF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Version Control
 ---
