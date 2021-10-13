@@ -23,7 +23,7 @@ Stats
 ---
 
 ![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverlance&exclude_repo=&show_icons=true&langs_count=10&hide=C,D,RPC,COBOL,HTML,CMake,JavaScript&theme=monokai&layout=compact)
 
 Programming Languages
 ---
