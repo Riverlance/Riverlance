@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Riverlance/Riverlance/master/profile-summary-card-output/react/4-productive-time.svg)
+```
+
+    
