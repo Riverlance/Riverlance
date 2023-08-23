@@ -10,10 +10,10 @@
 About me
 ---
 
-I'm an experienced back-end developer with a focus in **Game Development**.
-Skilled in `C++`, `Lua`, `PHP` and `Java` (for `Android`).
+I'm an committed and experienced back-end and front-end developer with a focus in **Game Development**, but I can handle other areas too.
+Skilled in `C++`, `Lua`, `PHP`, `Python`, `JavaScript` and `Java`.
 Professional with a **Bachelor's degree** in `Computer Science` from `Universidade Federal da Paraíba`.
-I live in *Recife - PE (Brazil)*.
+I talk in english (US) and portuguese (BR), and live in *Recife — Pernambuco (Brazil)*.
 
 My game project is **Kingdom Age Online**: https://kingdomageonline.com
 
