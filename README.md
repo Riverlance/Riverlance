@@ -11,7 +11,7 @@ About me
 ---
 
 I'm a committed and experienced full-stack developer.
-Skilled in `C++`, `Lua`, `PHP`, `Python`, `MySQL`, `Bootstrap`, `JavaScript`, `Java` and `UI/UX Design`.
+Skilled in `C++`, `Lua`, `PHP`, `Python`, `MySQL`, `Bootstrap`, `JavaScript`, `Java`, `UI/UX Design` and `QA/QC`.
 Professional with a **Bachelor's degree** in `Computer Science` from `Universidade Federal da Paraíba`.
 I talk in english (US) and portuguese (BR), and live in *Recife — Pernambuco (Brazil)*.
 
