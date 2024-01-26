@@ -10,8 +10,8 @@
 About me
 ---
 
-I'm a committed and experienced full-stack developer with a focus in **Game Development**, but I can handle other areas too.
-Skilled in `C++`, `Lua`, `PHP`, `Python`, `MySQL`, `Bootstrap`, `JavaScript` and `Java`.
+I'm a committed and experienced full-stack developer.
+Skilled in `C++`, `Lua`, `PHP`, `Python`, `MySQL`, `Bootstrap`, `JavaScript`, `Java` and `UI/UX Design`.
 Professional with a **Bachelor's degree** in `Computer Science` from `Universidade Federal da Paraíba`.
 I talk in english (US) and portuguese (BR), and live in *Recife — Pernambuco (Brazil)*.
 
